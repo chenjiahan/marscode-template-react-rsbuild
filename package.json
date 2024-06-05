@@ -1,9 +1,9 @@
 {
-  "name": ".",
+  "name": "my-react-app",
   "private": true,
   "version": "1.0.0",
   "scripts": {
-    "dev": "rsbuild dev --open",
+    "dev": "rsbuild dev",
     "build": "rsbuild build",
     "preview": "rsbuild preview"
   },
